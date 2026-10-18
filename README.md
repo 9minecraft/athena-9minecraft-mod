@@ -8,6 +8,12 @@ An unofficial rebuild of **ThatGravyBoat**'s original work, kept running on curr
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
